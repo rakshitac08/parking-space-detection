@@ -1,0 +1,6 @@
+path: C:/Users/rakshita/parking/datasets/PKLot
+train: train/images
+val: valid/images
+names:
+  0: space-empty
+  1: space-occupied
