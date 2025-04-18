@@ -33,7 +33,14 @@ Show screenshots or explain what results to expect.
 ##Outputs
 
 - Annotated video frames with detected parking spaces
-- Sample output images or stats (add image links here)
+![frame 0](image.png)
+![frame 30](image-1.png)
+![frame 60](image-2.png)
+![frame 90](image-3.png)
+![frame 120](image-4.png)
+
+- Sample output images or stats
+![image shows results, labels used - "space-empty" and "space-occupied"](testimage-1.jpg)
 
 5. Technologies Used
 ## Tech Stack
