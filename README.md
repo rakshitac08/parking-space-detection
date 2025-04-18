@@ -13,7 +13,7 @@ This project detects available and occupied parking spaces using the YOLOv8 obje
 # Setup Instructions
 
 1. Clone the repo:
-```bash
+(in bash)
 git clone https://github.com/rakshitac08/parking-space-detection.git
 cd parking-space-detection
 
@@ -26,7 +26,7 @@ jupyter notebook
 
 ---
 
-4. **Outputs & Results**
+# Outputs & Results
 ##Outputs
 
 - Annotated video frames with detected parking spaces
@@ -39,8 +39,7 @@ jupyter notebook
 - Sample output images or stats
 ![image shows results, labels used - "space-empty" and "space-occupied"](testimage-1.jpg)
 
-5. Technologies Used
-## Tech Stack
+# Technologies Used
 
 - Python 3.8+
 - OpenCV
