@@ -5,17 +5,17 @@ This project detects available and occupied parking spaces using the YOLOv8 obje
 
 # Project Structure
 
-- `CV (1).ipynb` — Main Jupyter notebook with code
+- `CV.ipynb` — Main Jupyter notebook with code
 - `requirements.txt` — All required Python libraries
-- `data/` — (Optional) Folder with input video/images
+- `datasets` — Folder with input images
 - `README.md` — You're reading this!
 
 # Setup Instructions
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/rakshitac08/parking-space-detection.git
+cd parking-space-detection
 
 2. Install dependecies:
 pip install -r requirements.txt
@@ -26,10 +26,7 @@ jupyter notebook
 
 ---
 
-4. **Outputs or Results**
-Show screenshots or explain what results to expect.
-
-```markdown
+4. **Outputs & Results**
 ##Outputs
 
 - Annotated video frames with detected parking spaces
